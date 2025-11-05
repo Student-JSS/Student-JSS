@@ -93,6 +93,9 @@
 [![](https://visitcount.itsvg.in/api?id=Student-JSS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ Fun Fact
+💡 "I believe in learning by building — the best way to grow as a developer is by creating real-world projects 🚀"
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
