@@ -12,7 +12,7 @@
 - 📚 Currently Learning: Data Structures & Algorithms (C++)
 - 🌱 Goal: To become a full-stack developer who writes elegant, efficient, and scalable code.
 - 💬 Ask me about: Frontend development, UI/UX, or DSA basics
-- ⚡ Fun fact: I love turning ideas into interactive web experiences!
+- 📫 Reach me at: **itzshivammuz@gmail.com**
 
 ---
 
