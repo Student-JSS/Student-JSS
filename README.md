@@ -18,18 +18,7 @@
 
 
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-kumar-88b154320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/TmjY2BLCIq/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/shivam2xjg7/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
