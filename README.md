@@ -1,103 +1,167 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2042D&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Frontend+Developer" alt="Typing SVG" />
-</p>
-<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology;React+%E2%9A%9B%EF%B8%8F+%7C+Python+%F0%9F%90%8D+%7C+Full-Stack+Dev;Turning+Raw+Data+into+Real+Stories+%F0%9F%93%8A;Building+Beautiful+%26+Functional+UIs+%F0%9F%8E%A8;Code+%2B+Creativity+%3D+My+Happy+Place+%F0%9F%92%99" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=Student-JSS&label=Profile+Views&color=A78BFA&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Student-JSS?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e" />
+
+</div>
+
+## 💖 About Me
+
+> 👋 Hi! I'm **Shivam Kumar** — a passionate **Information Technology** student who loves building beautiful web experiences.
+- 💻 **Role:** Full-Stack Developer + AI/ML Enthusiast
+- 🌍 **Domain:** Web Development | AI/ML
+- 🧠 **Languages:** Python, JavaScript, TypeScript, Java, C++
+- 🔥 **Interests:** Machine Learning, Data Visualization, React, Problem Solving
+- 🚀 **Currently:** Building modern web apps & diving deep into ML/AI
+- 🤝 **Open to:** Collaborations on creative frontend & data projects!
+- ⚡ **Fun fact:** Code + Creativity = My happy place 💙
+
+> *"Thanks for dropping by! Let's build something awesome together ✨"*
+
+<br>
+
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 What I'm Up To
+- ⚛️ **Building** modern web apps with React & Next.js
+- 📊 **Exploring** AL/ML & Deep Learning
+- 🌱 **Growing** in Backend & Full-Stack development  
+- 🧩 **Solving** problems on LeetCode & GFG daily
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Facts
+- 🎓 **Domain:** Data Science & Computer Science
+- 💬 **Ask me about:** React, Next.js Python
+- 🤝 **Open to:** Full Stack Web Projects
+- ⚡ **Vibe:** Where logic meets aesthetics 🌸
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌟 About Me
-- 🚀 Tech Stack: HTML | CSS | JavaScript | React | C++
-- 📚 Currently Learning: Data Structures & Algorithms (C++)
-- 🌱 Goal: To become a full-stack developer who writes elegant, efficient, and scalable code.
-- 💬 Ask me about: Frontend development, UI/UX, or DSA basics
-- 📫 Reach me at: **itzshivammuz@gmail.com**
+## 🌐 Let's Connect!
 
----
+<div align="center">
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-kumar-88b154320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/TmjY2BLCIq/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/shivam2xjg7/" target="_blank">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-88b154320/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TmjY2BLCIq/)
+<a href="https://www.geeksforgeeks.org/user/shivam2xjg7/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzshivammuz@gmail.com)
+
+</div>
 
 ---
 
-<!-- Skill Section -->
+## 🛠️ Tech Arsenal
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+<div align="center">
 
-<!-- Banners 4th Phase : SpiderMan -->
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
-</p>
-<!-- Banners 4th Phase : SpiderMan -->
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### 🦖 Competitive Programming
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+### ⚙️ Backend & Frameworks
 
-#### 📚 Frontend Development & Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### ⛏️ Backend Development & Database Services
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
-
-
-#### 🚦 Version Control & Documentation Tools
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-
-<!-- Skill Section -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🧠 AL & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Student-JSS&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Student-JSS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-JSS&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Student-JSS&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Student-JSS&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+</div>
 
 ---
 
-### ⚡ Fun Fact
-💡 "I believe in learning by building — the best way to grow as a developer is by creating real-world projects 🚀"
+## 🏆 Achievements
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public%20Repos-💻%20Growing-A78BFA?style=for-the-badge&labelColor=0d1117)
+![LeetCode](https://img.shields.io/badge/LeetCode-⚔️%20Active-FFA116?style=for-the-badge&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Coding-🔥%20Daily-7C3AED?style=for-the-badge&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/Stack-🧠%20Full%20Stack-C084FC?style=for-the-badge&labelColor=0d1117)
+![Domain](https://img.shields.io/badge/Domain-📊%20Data%20Science-5B21B6?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Lover-E879F9?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+## ⚔️ LeetCode Stats
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/TmjY2BLCIq?theme=dark&font=JetBrains+Mono&ext=heatmap&hide_border=true&border=0&radius=10" width="60%" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-JSS&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=C084FC&area_color=20123a&custom_title=Shivam's%20Contribution%20Graph" width="100%" />
+</div>
+
+> ⚠️ **Note:** Activity graph populates as you push more commits — keep coding! 🚀
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting! Let's create something amazing together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+[![](https://visitcount.itsvg.in/api?id=guptaasakshi&icon=6&color=6)](https://visitcount.itsvg.in)
+
+</div>
