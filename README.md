@@ -129,11 +129,7 @@
 
 ---
 
-## ⚔️ LeetCode Stats
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/TmjY2BLCIq?theme=dark&font=JetBrains+Mono&ext=heatmap&hide_border=true&border=0&radius=10" width="60%" />
-</div>
 
 ---
 
