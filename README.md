@@ -61,8 +61,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-88b154320/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TmjY2BLCIq/)
-<a href="https://www.geeksforgeeks.org/user/shivam2xjg7/" target="_blank">
+
     <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzshivammuz@gmail.com)
@@ -120,7 +119,7 @@
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Public%20Repos-💻%20Growing-A78BFA?style=for-the-badge&labelColor=0d1117)
-![LeetCode](https://img.shields.io/badge/LeetCode-⚔️%20Active-FFA116?style=for-the-badge&labelColor=0d1117)
+
 ![Streak](https://img.shields.io/badge/Coding-🔥%20Daily-7C3AED?style=for-the-badge&labelColor=0d1117)
 ![Stack](https://img.shields.io/badge/Stack-🧠%20Full%20Stack-C084FC?style=for-the-badge&labelColor=0d1117)
 ![Domain](https://img.shields.io/badge/Domain-📊%20Data%20Science-5B21B6?style=for-the-badge&labelColor=0d1117)
